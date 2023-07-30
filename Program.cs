@@ -83,6 +83,7 @@ for (int i = 0; i < list.Length; i++)
 double distanse = Math.Round(GetDistance(val[0], val[1], val[2], val[3], val[4], val[5]), 2);
 Console.WriteLine($"A ({val[0]},{val[1]},{val[2]}); B ({val[3]},{val[4]},{val[5]}) -> {distanse}");
 */
+
 // Task 23 Сокращенный вариант
 /*
 void GetCub(int N)
